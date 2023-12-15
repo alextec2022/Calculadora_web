@@ -9,7 +9,7 @@ Este repositorio contiene una calculadora simple escrita en JavaScript y empaque
 ## Instrucciones de Uso
 1.Clona este repositorio en tu máquina local:
 ```bash
-git clone https://github.com/tu-usuario/calculadora-docker.git
+https://github.com/alextec2022/Calculadora_web.git
 ```
 2.Navega al directorio del proyecto:
 ```bash
